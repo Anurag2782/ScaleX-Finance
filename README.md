@@ -42,12 +42,12 @@ Design approach for creating scalable and interoperable APIs.
 
 
 ```bash
-  git clone <repository-url>
+  git clone https://github.com/Anurag2782/ScaleX-finance.git
 ```
 
 #### Install dependencies:
 ```bash
-  cd <project-directory>
+  cd backend
   npm install
 ```
 
