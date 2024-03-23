@@ -67,7 +67,7 @@ Add the necessary environment variables,i.e, MONGODB_URI to the .env file.
 #### Get all Pairs
 
 ```http
-  GET /pairs/
+    GET /pairs/
 ```
 #### Create Pair
 
@@ -102,7 +102,7 @@ Add the necessary environment variables,i.e, MONGODB_URI to the .env file.
 #### Retrieves price data in USD for a pair.
 
 ```http
-  GET /pairs/
+    GET /pairs/:pairId/priceUsd
 ```
 #### Updates price data in the native currency for a pair.
 
